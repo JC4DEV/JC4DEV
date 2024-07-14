@@ -10,7 +10,6 @@
 						transform: rotate(-3deg);
 					}
 				}
-
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -22,7 +21,6 @@
 						background-position: 0% 50%;
 					}
 				}
-
 				@keyframes fadeIn {
 					0% {
 						opacity: 0;
@@ -34,7 +32,6 @@
 						opacity: 1;
 					}
 				}
-
 				.container {
 					font-family:
 						system-ui,
@@ -60,7 +57,6 @@
 					color: white;
 					text-align: center;
 				}
-
 				h1 {
 					font-size: 50px;
 					line-height: 1.3;
@@ -74,7 +70,6 @@
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
-
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
