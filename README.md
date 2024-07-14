@@ -1,89 +1,27 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
-<!---
-JC4DEV/JC4DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+                                                                                                                                    
+                                                                                                                                    
+          JJJJJJJJJJJ      CCCCCCCCCCCCC            444444444       DDDDDDDDDDDDD                                                   
+          J:::::::::J   CCC::::::::::::C           4::::::::4       D::::::::::::DDD                                                
+          J:::::::::J CC:::::::::::::::C          4:::::::::4       D:::::::::::::::DD                                              
+          JJ:::::::JJC:::::CCCCCCCC::::C         4::::44::::4       DDD:::::DDDDD:::::D                                             
+            J:::::J C:::::C       CCCCCC        4::::4 4::::4         D:::::D    D:::::D     eeeeeeeeeeee  vvvvvvv           vvvvvvv
+            J:::::JC:::::C                     4::::4  4::::4         D:::::D     D:::::D  ee::::::::::::ee v:::::v         v:::::v 
+            J:::::JC:::::C                    4::::4   4::::4         D:::::D     D:::::D e::::::eeeee:::::eev:::::v       v:::::v  
+            J:::::jC:::::C                   4::::444444::::444       D:::::D     D:::::De::::::e     e:::::e v:::::v     v:::::v   
+            J:::::JC:::::C                   4::::::::::::::::4       D:::::D     D:::::De:::::::eeeee::::::e  v:::::v   v:::::v    
+JJJJJJJ     J:::::JC:::::C                   4444444444:::::444       D:::::D     D:::::De:::::::::::::::::e    v:::::v v:::::v     
+J:::::J     J:::::JC:::::C                             4::::4         D:::::D     D:::::De::::::eeeeeeeeeee      v:::::v:::::v      
+J::::::J   J::::::J C:::::C       CCCCCC               4::::4         D:::::D    D:::::D e:::::::e                v:::::::::v       
+J:::::::JJJ:::::::J  C:::::CCCCCCCC::::C               4::::4       DDD:::::DDDDD:::::D  e::::::::e                v:::::::v        
+ JJ:::::::::::::JJ    CC:::::::::::::::C             44::::::44     D:::::::::::::::DD    e::::::::eeeeeeee         v:::::v         
+   JJ:::::::::JJ        CCC::::::::::::C             4::::::::4     D::::::::::::DDD       ee:::::::::::::e          v:::v          
+     JJJJJJJJJ             CCCCCCCCCCCCC             4444444444     DDDDDDDDDDDDD            eeeeeeeeeeeeee           vvv           
+                                                                                                                                    
+                                                                                                                                    
+
+```                                                                                             
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
